@@ -3,7 +3,7 @@ pkgdown: 2.1.1
 pkgdown_sha: ~
 articles:
   easyREM: easyREM.html
-last_built: 2025-02-28T18:18Z
+last_built: 2025-02-28T18:21Z
 urls:
   reference: https://emanuel-gf.github.io/easyREM/reference
   article: https://emanuel-gf.github.io/easyREM/articles
